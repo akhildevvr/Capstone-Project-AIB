@@ -7,10 +7,10 @@ Since early 2012 both housing and rental prices have been steadily rising year o
 The data for this project is available online (from CSO, PSR & Airbnb data).
 
 # **3.Required Technologies**
- Statistical Analysis 
- Modelling
- Data Analysis
- Data Cleaning
+ 1.Statistical Analysis 
+ 2.Modelling
+ 3.Data Analysis
+ 4.Data Cleaning
  
  # **4.AIB Project Contact**
  Colm Keyes (Colm.B.Keyes@aib.ie) & Helen Barrett (Helen.M.Barrett@aib.ie) of the AIB DataScience & Solutions Team are the official point   of contact for this proje
