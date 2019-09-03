@@ -8,8 +8,11 @@ The data for this project is available online (from CSO, PSR & Airbnb data).
 
 # **3.Required Technologies**
  1.Statistical Analysis 
+ 
  2.Modelling
+ 
  3.Data Analysis
+ 
  4.Data Cleaning
  
  # **4.AIB Project Contact**
